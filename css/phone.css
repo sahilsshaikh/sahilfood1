@@ -1,0 +1,38 @@
+/* navigaton */
+#navbar
+{
+    flex-direction: column;
+}
+/* Home section  */
+
+/* services section  */
+#services{
+    flex-direction: column;
+}
+#services .box{
+      padding: 14px;
+      margin: 2px 15px;
+      margin-bottom: 20px;      
+}
+#services .box img{
+    width: 50%;
+}
+ /* Client section */
+ #clients{
+    overflow: hidden;
+
+ }
+ .h-primary {
+    font-size: 1.3rem;
+    padding: 4px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+.h-secondary {
+    font-size: 1rem;
+    padding: 2px 4pxpx;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+/* contact section  */
+
+ /* footer  */
